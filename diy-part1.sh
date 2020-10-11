@@ -15,3 +15,6 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+# 添加OpenClash
+git clone https://github.com/vernesong/OpenClash package/OpenClash

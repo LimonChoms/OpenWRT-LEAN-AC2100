@@ -1,5 +1,5 @@
 ## 感谢[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-每周五自动编译小米AC2100的[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+每周五自动编译小米AC2100的[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)	    
 去除自己不需要的一些插件，仅包含(openclash,upnp,ddns,网络唤醒)，默认ip：10.0.0.1
 
 

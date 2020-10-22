@@ -17,4 +17,7 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 # 添加OpenClash
-git clone https://github.com/vernesong/OpenClash package/OpenClash
+#git clone https://github.com/vernesong/OpenClash package/OpenClash
+
+# 添加luci-app-Clash
+git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
